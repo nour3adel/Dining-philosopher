@@ -17,6 +17,7 @@ Src: http://en.wikipedia.org/wiki/Dining_philosophers_problem See more there.
 
 ![IllfatedEnviousAardvark-max-1mb](https://user-images.githubusercontent.com/90010134/206897238-e0b6f869-b805-4549-b252-01d555933cc6.gif)
 
+# Simulation
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90010134/206897923-0c2de1aa-f8d6-47c5-8ede-5e75d7961171.gif)
 
