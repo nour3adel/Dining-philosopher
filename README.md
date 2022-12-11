@@ -15,3 +15,4 @@ Src: http://en.wikipedia.org/wiki/Dining_philosophers_problem See more there.
 
 
 
+![IllfatedEnviousAardvark-max-1mb](https://user-images.githubusercontent.com/90010134/206897238-e0b6f869-b805-4549-b252-01d555933cc6.gif)
