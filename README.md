@@ -20,7 +20,7 @@ Src: http://en.wikipedia.org/wiki/Dining_philosophers_problem See more there.
 
 
 
-# Implementation
+
 
 
 ```
@@ -38,6 +38,7 @@ Class:  Chopstick - represent the chopistic available.
               
             Both methods are the synchronized method.
 ```
+# Implementation
 
 ```java
 
