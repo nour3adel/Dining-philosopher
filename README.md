@@ -17,10 +17,27 @@ Src: http://en.wikipedia.org/wiki/Dining_philosophers_problem See more there.
 ![IllfatedEnviousAardvark-max-1mb](https://user-images.githubusercontent.com/90010134/206897238-e0b6f869-b805-4549-b252-01d555933cc6.gif)
 
 --------------------------------
-# Simulation
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/90010134/206897923-0c2de1aa-f8d6-47c5-8ede-5e75d7961171.gif)
 
+
+# Implementation
+
+
+```
+Class:  Dine - it has a main method.
+Class:  Philosopher - represent the philosopher, it contains the two objects to represent the chopistrics.
+          Methods
+              eat     - called when enter for eating.
+              think   - called when enter for thinking.
+              run     - overriden method for Thread class.
+            
+Class:  Chopstick - represent the chopistic available.
+          Methods
+              take      - called when before occupied.
+              release   - called when philosopher starts thinking.
+              
+            Both methods are the synchronized method.
+```
 
 ```java
 
@@ -134,3 +151,10 @@ class Chopstick{
 }
 
 ```
+
+
+--------------------------------
+# Simulation
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90010134/206897923-0c2de1aa-f8d6-47c5-8ede-5e75d7961171.gif)
+
